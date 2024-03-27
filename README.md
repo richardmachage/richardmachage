@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠 Skills & Expertise</h3>
+<h3 align="left">🛠 Tools, Skills & Expertise</h3>
 
 ###
 
