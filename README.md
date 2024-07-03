@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I love building mobile apps 🔊<br>- ✉️ contact me at rchacha261@gmail.com <br>- 📚 I'm always learning and improving my skills...<br>- 💪🏽 In my free time I hit the gym</p>
+<p align="left">I love building mobile apps 🔊<br>- ✉️ You can contact me at [rmachage261@gmail.com](mailto:rmachage261@gmail.com) <br>- 📚 I'm always learning and improving my skills...<br>- 💪🏽 In my free time I hit the gym</p>
 
 ###
 
