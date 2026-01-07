@@ -2,12 +2,12 @@
 
 ###
 
-<h3 align="left">👨🏽‍💻 Mobile Developer || Computer Scientist 🎯</h3>
+<h3 align="left">👨🏽‍💻 Software Engineer || Computer Scientist 🎯</h3>
 
 ###
 
 <p align="left">
-  I love building mobile apps 🔊<br>
+  I love building Software, and I love Kotlin<br>
   - ✉️ You can contact me at <a href="mailto:rmachage261@gmail.com">rmachage261@gmail.com</a><br>
   - 📚 I'm always learning and improving my skills<br>
   - 💪🏽 In my free time, I hit the gym
