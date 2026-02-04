@@ -30,7 +30,6 @@
 </div>
 
 ###
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmachage)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=richardmachage)](https://git.io/streak-stats)
 
 ###
