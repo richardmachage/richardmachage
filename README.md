@@ -1,26 +1,18 @@
-<h1 align="left">Helloo 👋
+<h1 align="left">Helloo 👋<br>Welcome to my profile 😁<br>I am Richard⚡️</h1>
 
-
-Welcome to my profile 😁
-
-
-I am Richard⚡️</h1>
+###
 
 <h3 align="left">👨🏽‍💻 Software Engineer || Computer Scientist 🎯</h3>
 
-<p align="left"> I love building Software, and I absolutely love <strong>Kotlin</strong>.
+###
 
-
-🚀 Currently building android system apps @Transsion.
-
-
-📱 Deep diving into <strong>Kotlin Multiplatform (KMP)</strong>.
-
-
-✉️ You can contact me at <a href="mailto:rmachage261@gmail.com">rmachage261@gmail.com</a>
-
-
-💪🏽 In my free time, I hit the gym or get lost in <strong>Middle-earth</strong> lore. </p>
+<p align="left">
+  I love building Software, and I absolutely love <strong>Kotlin</strong>.<br>
+  - 🚀 Currently building android system apps  <strong>@Transsion</strong> .<br>
+  - 📱 Deep diving into <strong>Kotlin Multiplatform (KMP)</strong>.<br>
+  - ✉️ You can contact me at <a href="mailto:rmachage261@gmail.com">rmachage261@gmail.com</a><br>
+  - 💪🏽 In my free time, I hit the gym or get lost in <strong>Middle-earth</strong> lore.
+</p>
 
 ###
 
@@ -38,13 +30,7 @@ I am Richard⚡️</h1>
 </div>
 
 ###
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmachage)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=richardmachage&show_icons=true&theme=dark&hide_border=true" alt="Richard's GitHub stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmachage&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Richard's Top Languages" />
-  </a>
-</div>
+
+###
